@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/hatm12345cc-source/delta/raw/main/Delta.ipa</string>
+					<string>https://github.com/hatm12345cc-source/اسم_مستودعك_الجديد/raw/main/Delta.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hatm12345cc-source/delta/main/icon_shiny.png</string>
+					<string>https://raw.githubusercontent.com/hatm12345cc-source/اسم_مستودعك_الجديد/main/icon_shiny.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.krnl.vn.shiny</string>
+				<string>com.krnl.vn.new</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
